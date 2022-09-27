@@ -8,3 +8,5 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anigalhub)](https://github.com/anuraghazra/github-readme-stats)
