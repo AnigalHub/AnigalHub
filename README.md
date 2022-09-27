@@ -3,6 +3,7 @@
   
 ### Languages and Tools:  
 
+![Vue.js](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
