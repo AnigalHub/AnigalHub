@@ -16,4 +16,6 @@
 <a><img src="https://blog.skillfactory.ru/wp-content/uploads/2022/04/postgresql_elephant.svg-5325977.png" alt="javascript" width="40" height="40"/> </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anigalhub)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/anigalhub)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anigalhub)  
