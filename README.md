@@ -34,9 +34,6 @@
 <a><img src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="javascript" width="50" height="40"/> </a>
 </div>
 
-</td><td valign="top" width="38%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anigalhub&hide_border=true&layout=compact" align="center" />  
-
 </td></tr></table>  
 
 
