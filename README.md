@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available on [my website](https://anigalhub.github.io)!
 
 ## My Skill Set And Github Stats
-<table><tr><td valign="top" width="24%">
+<table><tr><td valign="top" width="23%">
 
 ### Frontend  
 <div align="center">  
@@ -21,7 +21,7 @@
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="javascript" width="45" height="40"/> </a>
 </div>
 
-</td><td valign="top" width="18%">
+</td><td valign="top" width="17%">
 
 ### Backend  
 <div align="center">  
@@ -31,7 +31,7 @@
 <a><img src="https://blog.skillfactory.ru/wp-content/uploads/2022/04/postgresql_elephant.svg-5325977.png" alt="javascript" width="40" height="40"/> </a>
 </div>
 
-</td><td valign="top" width="12%">
+</td><td valign="top" width="14%">
 
 ### Framework 
 <div align="center">  
@@ -39,7 +39,7 @@
 <a><img src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="javascript" width="50" height="40"/> </a>
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="38%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anigalhub&hide_border=true&layout=compact" align="center" />  
 
 </td></tr></table>  
