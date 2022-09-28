@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available on [my website](https://anigalhub.github.io)!
 
 ## My Skill Set And Github Stats
-<table><tr><td valign="top" width="18%">
+<table><tr><td valign="top" width="24%">
 
 ### Frontend  
 <div align="center">  
