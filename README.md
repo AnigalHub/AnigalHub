@@ -1,5 +1,6 @@
 ### Hi there 👋, Anna Ignatova
 
+## About me
 - 🔭 I’m currently working Junior Frontend Developer
   
 
@@ -8,8 +9,8 @@
 
 - 👨‍💻 All of my projects are available on [my website](https://anigalhub.github.io)!
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set And Github Stats
+<table><tr><td valign="top" width="20%">
 
 ### Frontend  
 <div align="center">  
@@ -20,7 +21,7 @@
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="javascript" width="45" height="40"/> </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 ### Backend  
 <div align="center">  
@@ -30,7 +31,7 @@
 <a><img src="https://blog.skillfactory.ru/wp-content/uploads/2022/04/postgresql_elephant.svg-5325977.png" alt="javascript" width="40" height="40"/> </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 ### Framework 
 <div align="center">  
@@ -38,15 +39,9 @@
 <a><img src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="javascript" width="50" height="40"/> </a>
 </div>
 
-</td></tr></table>  
-
- 
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=anigalhub&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
-
+</td><td valign="top" width="40%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anigalhub&hide_border=true&layout=compact" align="left" />  
 
-<br/>
- 
+</td></tr></table>  
+
 
