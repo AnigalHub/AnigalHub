@@ -14,7 +14,5 @@
 <a><img src="https://web-creator.ru/uploads/Page/22/nodejs.svg" alt="javascript" width="40" height="40"/> </a>
 <a><img src="https://itproger.com/intensive/img/express.png" alt="javascript" width="40" height="40"/> </a>
 <a><img src="https://blog.skillfactory.ru/wp-content/uploads/2022/04/postgresql_elephant.svg-5325977.png" alt="javascript" width="40" height="40"/> </a>
-
-
-![GitHub metrics](https://metrics.lecoq.io/anigalhub)  
+ 
 
