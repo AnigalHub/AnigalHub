@@ -1,13 +1,8 @@
-### Hi there 👋, Anna Ignatova
+### Hi👋, I am Anna Ignatova 
 
 ## About me
-- 🔭 I’m currently working Junior Frontend Developer
-  
 
-- 🌱 I’m currently learning TypeScript and Node.js  
-  
-
-- 👨‍💻 All of my projects are available on [my website](https://anigalhub.github.io)!
+- 👨‍💻 All of my personal projects are available on [my website](https://anigalhub.github.io)!
 
 ## My Skill Set And Github Stats
 <table><tr><td valign="top" width="23%">
