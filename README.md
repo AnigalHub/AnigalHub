@@ -3,11 +3,7 @@
   
 ### Languages and Tools:  
 
-![Vue.js](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue&logoColor=E9D54D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anigalhub)](https://github.com/anuraghazra/github-readme-stats)
