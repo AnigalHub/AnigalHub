@@ -5,7 +5,7 @@
 - 👨‍💻 All of my personal projects are available on [my website](https://anigalhub.github.io)!
 
 ## My Skill Set
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="55%">
 
 ### Frontend  
 <div align="center">  
@@ -16,7 +16,7 @@
 <a href='https://sass-lang.com/'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="javascript" width="35" height="30"/> </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -26,7 +26,7 @@
 <a href='https://www.postgresql.org/'><img src="https://blog.skillfactory.ru/wp-content/uploads/2022/04/postgresql_elephant.svg-5325977.png" alt="javascript" width="30" height="30"/> </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="1%">
 
 ### Framework 
 <div align="center">  
