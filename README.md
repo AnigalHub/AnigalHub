@@ -1,13 +1,13 @@
-Hi!👋 Welcome to my Github! I am Anna Ignatova 
+Hi!👋 Welcome to my Github!
 
 #### My website
 
-- 👨‍💻 All of my personal projects are available on [my website](https://anigalhub.github.io)!
+💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
 
 #### My Skill Set
 <table><tr><td valign="top" width="55%">
 
-### Frontend  
+#### Frontend  
 <div align="center">  
 <ahref='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img src="https://coderoll.net/templates/coderoll_new/images/cats/js.png" alt="javascript" width="30" height="30"/> </a>
 <a href='https://www.w3.org/html/'><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="javascript" width="30" height="30"/> </a>
@@ -18,7 +18,7 @@ Hi!👋 Welcome to my Github! I am Anna Ignatova
 
 </td><td valign="top" width="50%">
 
-### Backend  
+#### Backend  
 <div align="center">  
 <a href='https://www.typescriptlang.org/'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="javascript" width="30" height="30"/> </a>
 <a href='https://nodejs.org/en/'><img src="https://web-creator.ru/uploads/Page/22/nodejs.svg" alt="javascript" width="30" height="30"/> </a>
@@ -28,7 +28,7 @@ Hi!👋 Welcome to my Github! I am Anna Ignatova
 
 </td><td valign="top" width="1%">
 
-### Framework 
+#### Framework 
 <div align="center">  
 <a href='https://vuejs.org/'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="javascript" width="35" height="30"/> </a>
 <a href='https://nuxtjs.org/'><img src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="javascript" width="35" height="30"/> </a>
