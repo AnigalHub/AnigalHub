@@ -1,8 +1,4 @@
-Hi!👋 Welcome to my Github!
-
-#### My website
-
-💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
+Hi!👋 Welcome to my Github! 💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
 
 #### My Skills
 
