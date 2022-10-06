@@ -1,10 +1,10 @@
-### Hi👋, I am Anna Ignatova 
+Hi!👋 Welcome to my Github! I am Anna Ignatova 
 
-## About me
+#### My website
 
 - 👨‍💻 All of my personal projects are available on [my website](https://anigalhub.github.io)!
 
-## My Skill Set
+#### My Skill Set
 <table><tr><td valign="top" width="55%">
 
 ### Frontend  
