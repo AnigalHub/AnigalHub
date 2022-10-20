@@ -16,5 +16,12 @@ Hi! I am Anna Ignatova. 💻 All of my personal projects are available on [websi
 [![](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/)
 [![](https://skillicons.dev/icons?i=nuxtjs)](https://nuxtjs.org/)
 
+<details>
+  <summary>
+    
+###  :sparkles: Top languages by Commits 
+  </summary>
+ <p> <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anigalhub&theme=github_dark'> </p>
+  </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anigalhub&label=Profile%20views&color=0e75b6&style=flat" alt="anigalhub" /> </p>
