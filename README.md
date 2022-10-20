@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header"/>
 
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> Welcome to my Github! 
 
@@ -25,4 +26,4 @@ Hi! I am Anna Ignatova. 💻 All of my personal projects are available on [websi
  <p> <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anigalhub&theme=github_dark'> </p>
   </details>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anigalhub&label=Profile%20views&color=0e75b6&style=flat" alt="anigalhub" /> </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
