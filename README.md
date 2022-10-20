@@ -1,7 +1,11 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Welcome+to+my+Github!;Hi!+I+am+Anna+Ignatova;Frontend+Developer;" style="width: 100%; height:20%">
+<div align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer&size=38&pause=1000&color=teal&center=true" />
+</div>
 
-###  💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
+ 👋 Welcome to my Github Profile! <br>
+ ⚡ Hi! I am Anna Ignatova. <br>
+ 💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
 
 ### :sparkles: My skills
 
