@@ -24,7 +24,7 @@
 <details>
   <summary>
     
-###  :sparkles: Top languages by Commits 
+###  📊 Top languages by Commits 
   </summary>
  <p> <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anigalhub&theme=github_dark'> </p>
   </details>
