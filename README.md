@@ -1,8 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header"/>
 
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px"> Welcome to my Github! 
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Welcome+to+my+Github!;Hi!+I+am+Anna+Ignatova;Frontend+Developer;" style="width: 100%; height:20%">
 
-Hi! I am Anna Ignatova. 💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
+###  💻 All of my personal projects are available on [website](https://anigalhub.github.io)!
 
 ### :sparkles: My skills
 
@@ -26,4 +25,4 @@ Hi! I am Anna Ignatova. 💻 All of my personal projects are available on [websi
  <p> <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anigalhub&theme=github_dark'> </p>
   </details>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anigalhub&label=Profile%20views&color=0e75b6&style=flat" alt="anigalhub" /> </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
