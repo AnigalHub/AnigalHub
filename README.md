@@ -20,8 +20,8 @@
 [![](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 [![](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/)
 [![](https://skillicons.dev/icons?i=nuxtjs)](https://nuxtjs.org/)
-[![](https://skillicons.dev/icons?i=nuxtjs)](https://mongodb.org/)
-[![](https://skillicons.dev/icons?i=nuxtjs)](https://github.org/)
+[![](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
+[![](https://skillicons.dev/icons?i=github)](https://github.org/)
 <details>
   <summary>
     
