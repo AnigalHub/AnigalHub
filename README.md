@@ -22,6 +22,7 @@
 [![](https://skillicons.dev/icons?i=nuxtjs)](https://nuxtjs.org/)
 [![](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
 [![](https://skillicons.dev/icons?i=github)](https://github.org/)
+[![](https://skillicons.dev/icons?i=vuetify)](https://vuetify.org/)
 <details>
   <summary>
     
